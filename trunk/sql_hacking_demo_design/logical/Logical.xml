@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="8ED4068F-589A-761B-0D97-1355A34F0DC3" mainViewID="71487205-789C-520A-BFE4-0D480E04C8DC">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 17:51:07 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

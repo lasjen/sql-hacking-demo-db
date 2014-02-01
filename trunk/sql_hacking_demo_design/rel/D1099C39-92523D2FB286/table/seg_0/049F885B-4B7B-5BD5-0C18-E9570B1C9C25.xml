@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="049F885B-4B7B-5BD5-0C18-E9570B1C9C25" name="DEPARTMENT">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 18:01:38 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<abbreviation>DEPT</abbreviation>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="deptno" id="12741E09-92C7-55C3-2B60-F437FFA3B3FC">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 18:03:24 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="65508D64-DE53-03A3-9FBC-265D58A5277A">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 18:03:24 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="managerid" id="C3ED980B-4645-7F58-ED6E-D2A9747949B5">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 18:03:24 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="59531D84-DF25-914C-8363-2ADB2AE9A619" name="DEPARTMENT_PK">
+<createdBy>ek2046</createdBy>
+<createdTime>2014-01-30 18:03:24 UTC</createdTime>
+<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="12741E09-92C7-55C3-2B60-F437FFA3B3FC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
