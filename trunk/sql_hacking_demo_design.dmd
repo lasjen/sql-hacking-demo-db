@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sql_hacking_demo_design" id="D3BAA133-9F4C-3D8A-8A1E-DE4DE925F94B" version="3.5">
-<createdBy>ek2046</createdBy>
-<createdTime>2014-01-30 17:51:07 UTC</createdTime>
-<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>D3BAA133-9F4C-3D8A-8A1E-DE4DE925F94B</designId>
-</OSDM_Design>
