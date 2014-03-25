@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="331AF558-A9D0-C31D-77BE-5754090CDB7D">
-<createdBy>ek2046</createdBy>
-<createdTime>2014-01-30 17:51:07 UTC</createdTime>
-<ownerDesignName>sql_hacking_demo_design</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</ProcessModel>
